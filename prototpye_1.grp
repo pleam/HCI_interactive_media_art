@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GRP Version="2.0.0.1" Mode="0" TemplateObjectCnt="0">
+    <GrTxtBrushArr Size="0"/>
+    <GrTxtOutlineArr Size="0"/>
+    <GrTxtShadowArr Size="0"/>
+    <GrTimelineViewMode Mode="13" output_width="1280" output_height="720"/>
+    <GrEncodingPath Path="C:\Users\PRIME#33\Google 드라이브\2019_Yoondi\01_인간과 컴퓨터의 상호작용\00_mid-term presentation\"/>
+    <GrVideoArr Size="5">
+        <GrVideo>
+            <GrVideoData FileName="C:\Users\PRIME#33\Desktop\prototype\IMG_1413.MOV" SegStart="0" SegEnd="10966" FadeType="0" ScreenTransformType="0" ScreenTransformTime="0" Mute="false" Volume="1" Tempo="1"/>
+            <GrVideoColorAdjust/>
+            <GrVideoFilter VideoColor="0" VideoColorType="0" VideoEffect="0" VideoEffectValue="20" FilterUseLookupFile="0" FilterUseVignetteFile="0" Rotate="180"/>
+            <GrVideoTextureAdjust/>
+        </GrVideo>
+        <GrVideo>
+            <GrVideoData FileName="C:\Users\PRIME#33\Desktop\prototype\IMG_1415.MOV" SegStart="0" SegEnd="2428" FadeType="0" ScreenTransformType="0" ScreenTransformTime="0" Mute="false" Volume="1" Tempo="1"/>
+            <GrVideoColorAdjust/>
+            <GrVideoFilter VideoColor="0" VideoColorType="0" VideoEffect="0" VideoEffectValue="20" FilterUseLookupFile="0" FilterUseVignetteFile="0" Rotate="180"/>
+            <GrVideoTextureAdjust/>
+        </GrVideo>
+        <GrVideo>
+            <GrVideoData FileName="C:\Users\PRIME#33\Desktop\prototype\IMG_1417.MOV" SegStart="0" SegEnd="1270" FadeType="0" ScreenTransformType="0" ScreenTransformTime="0" Mute="false" Volume="1" Tempo="1"/>
+            <GrVideoColorAdjust/>
+            <GrVideoFilter VideoColor="0" VideoColorType="0" VideoEffect="0" VideoEffectValue="20" FilterUseLookupFile="0" FilterUseVignetteFile="0" Rotate="180"/>
+            <GrVideoTextureAdjust/>
+        </GrVideo>
+        <GrVideo>
+            <GrVideoData FileName="C:\Users\PRIME#33\Desktop\prototype\IMG_1418.MOV" SegStart="0" SegEnd="413" FadeType="0" ScreenTransformType="0" ScreenTransformTime="0" Mute="false" Volume="1" Tempo="1"/>
+            <GrVideoColorAdjust/>
+            <GrVideoFilter VideoColor="0" VideoColorType="0" VideoEffect="0" VideoEffectValue="20" FilterUseLookupFile="0" FilterUseVignetteFile="0" Rotate="90"/>
+            <GrVideoTextureAdjust/>
+        </GrVideo>
+        <GrVideo>
+            <GrVideoData FileName="C:\Users\PRIME#33\Desktop\prototype\IMG_1419.MOV" SegStart="0" SegEnd="9325" FadeType="0" ScreenTransformType="0" ScreenTransformTime="0" Mute="false" Volume="1" Tempo="1"/>
+            <GrVideoColorAdjust/>
+            <GrVideoFilter VideoColor="0" VideoColorType="0" VideoEffect="0" VideoEffectValue="20" FilterUseLookupFile="0" FilterUseVignetteFile="0" Rotate="180"/>
+            <GrVideoTextureAdjust/>
+        </GrVideo>
+    </GrVideoArr>
+    <GrObjArr Size="0"/>
+    <GrAudioArr Size="0"/>
+    <GrEffectArr Size="0"/>
+</GRP>
